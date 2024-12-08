@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873255042206",
+    "project_id": "ecomeranceapp",
+    "storage_bucket": "ecomeranceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873255042206:android:081fc4ddfb95ba6f3d8f8f",
+        "android_client_info": {
+          "package_name": "com.example.ecomerance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejwJ8ka9CrUrwR7jmKdnQo4ixI2XAOtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
